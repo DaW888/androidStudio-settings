@@ -1,0 +1,21 @@
+<templateSet group="Own">
+  <template name="alert" value="AlertDialog.Builder builder = new AlertDialog.Builder($context$);&#10;&#10;View view = View.inflate($context$, R.layout.$layoutName$, null);&#10;        builder.setView(view);&#10;        builder.setPositiveButton(&quot;OK&quot;, new DialogInterface.OnClickListener() {&#10;            @Override&#10;            public void onClick(DialogInterface dialog, int which) {&#10;                $END$&#10;            }&#10;        });&#10;        builder.setNegativeButton(&quot;NO&quot;, new DialogInterface.OnClickListener() {&#10;            @Override&#10;            public void onClick(DialogInterface dialog, int which) {&#10;&#10;            }&#10;        });&#10;        AlertDialog alert = builder.create();&#10;        alert.show();&#10;        Objects.requireNonNull(alert.getWindow()).setBackgroundDrawableResource($backgroundColorAlert$);" description="Alert builder with Positive and Negative buttons" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <variable name="context" expression="" defaultValue="&quot;context&quot;" alwaysStopAt="true" />
+    <variable name="layoutName" expression="" defaultValue="&quot;xmlFile&quot;" alwaysStopAt="true" />
+    <variable name="backgroundColorAlert" expression="" defaultValue="&quot;R.color.colorBackground&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="click" value="setOnClickListener(new View.OnClickListener() {&#10;    @Override&#10;    public void onClick(View v) {&#10;        $END$&#10;    }&#10;});" description="setOnclickListener" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_DECLARATION" value="false" />
+      <option name="JAVA_EXPRESSION" value="false" />
+      <option name="JAVA_STATEMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+</templateSet>
