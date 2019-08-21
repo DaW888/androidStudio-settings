@@ -4,7 +4,7 @@
     <property name="created">2019-05-26T12:49:39</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.4.1.0</property>
-    <property name="modified">2019-08-21T13:33:44</property>
+    <property name="modified">2019-08-21T14:15:58</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -69,6 +69,11 @@
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="50fa7b" />
+      </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="236dcd" />
       </value>
     </option>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -1410,6 +1415,11 @@
         <option name="FOREGROUND" value="87cefa" />
       </value>
     </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="236dcd" />
+      </value>
+    </option>
     <option name="RUBY_BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff5555" />
@@ -1565,6 +1575,11 @@
         <option name="FOREGROUND" value="87cefa" />
       </value>
     </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="236dcd" />
+      </value>
+    </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR0">
       <value>
         <option name="FOREGROUND" value="ffd700" />
@@ -1578,6 +1593,11 @@
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR2">
       <value>
         <option name="FOREGROUND" value="87cefa" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="236dcd" />
       </value>
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
