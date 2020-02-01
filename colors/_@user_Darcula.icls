@@ -3,12 +3,11 @@
     <property name="created">2019-05-26T12:49:39</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.4.1.0</property>
-    <property name="modified">2019-08-30T20:00:10</property>
+    <property name="modified">2020-02-01T18:27:23</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
     <option name="FILESTATUS_ADDED" value="50fa7b" />
-    <option name="FILESTATUS_COPIED" value="50fa7b" />
     <option name="FILESTATUS_DELETED" value="6272a4" />
     <option name="FILESTATUS_HIJACKED" value="f1fa8c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6272a4" />
