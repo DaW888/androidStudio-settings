@@ -2,6 +2,9 @@
   <AndroidXmlCodeStyleSettings>
     <option name="ARRANGEMENT_SETTINGS_MIGRATED_TO_191" value="true" />
   </AndroidXmlCodeStyleSettings>
+  <DartCodeStyleSettings>
+    <option name="DELEGATE_TO_DARTFMT" value="false" />
+  </DartCodeStyleSettings>
   <XML>
     <option name="XML_ATTRIBUTE_WRAP" value="2" />
   </XML>
