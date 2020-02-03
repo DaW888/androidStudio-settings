@@ -1,19 +1,11 @@
 <code_scheme name="Default" version="173">
+  <option name="RIGHT_MARGIN" value="120" />
   <AndroidXmlCodeStyleSettings>
     <option name="ARRANGEMENT_SETTINGS_MIGRATED_TO_191" value="true" />
   </AndroidXmlCodeStyleSettings>
-  <DartCodeStyleSettings>
-    <option name="DELEGATE_TO_DARTFMT" value="false" />
-  </DartCodeStyleSettings>
   <XML>
     <option name="XML_ATTRIBUTE_WRAP" value="2" />
   </XML>
-  <codeStyleSettings language="Dart">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="4" />
-      <option name="TAB_SIZE" value="4" />
-    </indentOptions>
-  </codeStyleSettings>
   <codeStyleSettings language="XML">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
