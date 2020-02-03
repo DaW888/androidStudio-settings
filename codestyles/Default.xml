@@ -5,6 +5,12 @@
   <XML>
     <option name="XML_ATTRIBUTE_WRAP" value="2" />
   </XML>
+  <codeStyleSettings language="Dart">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="XML">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
